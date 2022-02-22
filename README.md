@@ -15,4 +15,5 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
 - `API_HASH` - Get from my.telegram.org or [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `STRING_SESSION` - Get this from [@StringSessionGen_Bot](https://t.me/StringSessionGen_Bot)
 - `FORWARD_TO_CHAT_ID` - Forward To Chat IDs. Separate with Space.
-
+- `HEROKU_API_KEY` - Heroku API Key from https://dashboard.heroku.com/account
+- `HEROKU_APP_NAME` - Your Heroku App Name.
