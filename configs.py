@@ -17,8 +17,8 @@ class Config(object):
     # Filters for Forwards
     DEFAULT_FILTERS = "video document photo audio text gif forwarded poll sticker"
     FORWARD_FILTERS = DEFAULT_FILTERS
-    BLOCKED_EXTENSIONS = ""
-    MINIMUM_FILE_SIZE = os.environ.get("MINIMUM_FILE_SIZE", None)
+    BLOCKED_EXTENSIONS = None
+    MINIMUM_FILE_SIZE = None
     BLOCK_FILES_WITHOUT_EXTENSIONS = False
     # Forward as Copy. Value Should be True or False
     FORWARD_AS_COPY = True
