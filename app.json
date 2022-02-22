@@ -1,0 +1,65 @@
+{
+    "name": "This is Telegram Anime Feed Providing Userbot by HashCatz",
+    "description": "This is Telegram Anime Feed Providing Userbot Made By TROJ3N @HashCatz",
+    "logo": "https://ih1.redbubble.net/image.1517616414.8843/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    "keywords": [
+        "telegram",
+        "Anime",
+        "Feeds",
+        "userbot"
+    ],
+    "repository": "https://github.com/HashCatz/Anime-Feeds-Provider",
+    "website": "https://telegram.dog/troj3n",
+    "success_url": "https://t.me/animeandwaifuforall",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+        },
+        "STRING_SESSION": {
+            "description": "Get this from @StringSessionGen_Bot(pyrogram session)"
+        },
+        "FORWARD_TO_CHAT_ID": {
+            "description": "Forward To Chat IDs. Separate with Space."
+        },
+        "FORWARD_FILTERS": {
+            "description": "Filters can be `text`, `video`, `document`, `gif`, `sticker`, `photo`, `audio`, `poll`, `forwarded`. Separate with Space.",
+            "required": false
+        },
+        "BLOCKED_EXTENSIONS": {
+            "description": "Don't Forward those Media Messages which contains Blocked Extensions. Example: `mp4 mkv mp3 zip rar`. Separate with Space.",
+            "required": false
+        },
+        "MINIMUM_FILE_SIZE": {
+            "description": "Minimum File Size for Media Message to be able to Forward. Should be in Bytes.",
+            "required": false
+        },
+        "BLOCK_FILES_WITHOUT_EXTENSIONS": {
+            "description": "Value can be `True`/`False`. If `True` those files which doesn't have file extension will not be Forwarded.",
+            "required": false
+        },
+        "HEROKU_API_KEY": {
+            "description": "Put Heroku API Key from https://dashboard.heroku.com/account"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Your Heroku App Name."
+        },
+        "FORWARD_AS_COPY": {
+            "description": "Forward Messages as Copy or with Forward Tag. Value should be True/False.",
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
