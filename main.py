@@ -1,7 +1,4 @@
-# (c) @AbirHasan2005 | Thomas Shelby
-# This is Telegram Messages Forwarder UserBot!
-# Use this at your own risk. I will not be responsible for any kind of issue while using this!
-
+#made By Hash Catz
 import os
 import sys
 import time
