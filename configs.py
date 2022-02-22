@@ -11,7 +11,7 @@ class Config(object):
     # Get This From @StringSessionGen_Bot
     STRING_SESSION = os.environ.get("STRING_SESSION")
     # Forward From Chat ID
-    FORWARD_FROM_CHAT_ID = "-1001549232084"
+    FORWARD_FROM_CHAT_ID = -1001549232084
     # Forward To Chat ID
     FORWARD_TO_CHAT_ID = list(set(int(x) for x in os.environ.get("FORWARD_TO_CHAT_ID", "-100").split()))
     # Filters for Forwards
