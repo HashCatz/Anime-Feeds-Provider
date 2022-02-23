@@ -1,6 +1,13 @@
 # 🔥Power The Telegram Anime Feeds Provider
 This Is A Telegram UserBot Who Can Provide Realtime Anime feeds To Your Channel From AnimePahe
 <img align="justify" src="https://wallpapercave.com/dwp1x/wp8650341.png">
+<p align="center">
+    <a href="https://python.org">
+        <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="built-with-py">
+    </a>
+    <a href="https://GitHub.com/TR0J3N">
+        <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
+    </a></p>
 ## ‼️Warning
 Use this at your own risk. We will not be responsible for any kind of issue while using this! Better use a different Telegram Account instead of using Main Telegram Account.
 
