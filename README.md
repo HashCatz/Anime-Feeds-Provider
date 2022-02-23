@@ -43,3 +43,9 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
   <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/4.PNG">
   <p>Now you are in the settings panel..you could see a small logo named <b>Add Buildpack</b> Click it and you will get a popup like above..when the popup appeared choose <i>Python</i> and save the changes..</p>
 </details>
+<details>
+  <summary>5th Step</summary>
+  <h3>Step 5</h3>
+  <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/5.PNG">
+  <p>After adding <b>BuildPacks</b> Go to the <i>Config Vars</i> panel and click <b>Reveal Vars</b> and Add Vars just Like in above Image..<br>-- <b>Here The Vars</b> --<br>API_ID<br>API_HASH<br>STRING_SESSION<br>FORWARD_TO_CHAT_ID<br>HEROKU_API_KEY<br>HEROKU_APP_NAME<br><br>Refer Configs in Readme.md For more details about Vars</p>
+</details>
