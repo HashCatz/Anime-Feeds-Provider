@@ -83,11 +83,11 @@ python3 main.py
 If There Any Problem You Can Contact Me At [Here](https://t.me/troj3n) or simply submit a pull request.
 
 ## ❔Commands:
-`!start` - Check Power Alive or Not.
-`!help` - Get Help message.
-`!kang` - Start All Feeds Kanger.
-`!restart` - Restart Heroku App Dyno Workers.
-`!stop` - Stop Kanger & Restart Service.
+- `!start` - Check Power Alive or Not.
+- `!help` - Get Help message.
+- `!kang` - Start All Feeds Kanger.
+- `!restart` - Restart Heroku App Dyno Workers.
+- `!stop` - Stop Kanger & Restart Service.
 ## 🔱Our Telegram Channels:
 - [Anime Feeds](https://t.me/animefeeds_latest)
 - [Manga Feeds](https://t.me/mangafeeds)
