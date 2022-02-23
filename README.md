@@ -31,3 +31,15 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
   <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/2.PNG">
   <p>After creating an app,you will redirect into a new page like above..First of all connect the github account to your heroku account by clicking <i>Connect to github</i>. After that search the repo in that searchbar and click the connect.</p>
 </details>
+<details>
+  <summary>3rd Step</summary>
+  <h3>Step 3</h3>
+  <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/3.PNG">
+  <p>After Connecting The repo successfully,Go to the settings panel..</p>
+</details>
+<details>
+  <summary>4th Step</summary>
+  <h3>Step 4</h3>
+  <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/4.PNG">
+  <p>Now you are in the settings panel..you could see a small logo named <b>Add Buildpack</b> Click it and you will get a popup like above..when the popup appeared choose <i>Python</i> and save the changes..</p>
+</details>
