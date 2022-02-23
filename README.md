@@ -17,3 +17,10 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
 - `FORWARD_TO_CHAT_ID` - Forward To Chat IDs. Separate with Space.
 - `HEROKU_API_KEY` - Heroku API Key from https://dashboard.heroku.com/account
 - `HEROKU_APP_NAME` - Your Heroku App Name.
+
+## ♻Steps To Deploy In Heroku
+<details>
+  <summary><h2>Step 1</h2></summary>
+  <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/1.PNG">
+
+</details>
