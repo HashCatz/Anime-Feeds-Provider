@@ -73,7 +73,7 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
 </details>
 
 
-## 🌹 Host Locally
+## 🌹Host Locally
 ```
 git clone https://github.com/HashCatz/Anime-Feeds-Provider
 cd Anime-Feeds-Provider
@@ -81,3 +81,8 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 If There Any Problem You Can Contact Me At [Here](https://t.me/troj3n) or simply submit a pull request.
+
+## 🔱Our Telegram Channels:
+- [Anime Feeds](https://t.me/animefeeds_latest)
+- [Manga Feeds](https://t.me/mangafeeds)
+- [Anime Discussion](https://t.me/animeandwaifuforall)
