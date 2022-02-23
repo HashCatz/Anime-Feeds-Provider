@@ -20,7 +20,14 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
 
 ## ♻Steps To Deploy In Heroku
 <details>
-  <summary><h2>Step 1</h2></summary>
+  <summary>1st Step</summary>
+  <h3>Step 1</h3>
   <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/1.PNG">
-
+  <p>As shown in the above image, create a new app in heroku</p>
+</details>
+<details>
+  <summary>2nd Step</summary>
+  <h3>Step 2</h3>
+  <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/2.PNG">
+  <p>After creating an app,you will redirect into a new page like above..First of all connect the github account to your heroku account by clicking <i>Connect to github</i>. After that search the repo in that searchbar and click the connect.</p>
 </details>
