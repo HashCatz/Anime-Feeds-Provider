@@ -77,3 +77,4 @@ cd Anime-Feeds-Provider
 pip3 install -r requirements.txt
 python3 main.py
 ```
+If There Any Problem You Can Contact Me At [Here](https://t.me/troj3n) or simply submit a pull request.
