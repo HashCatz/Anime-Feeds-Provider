@@ -61,3 +61,12 @@ Use this at your own risk. We will not be responsible for any kind of issue whil
   <img src="https://github.com/HashCatz/Anime-Feeds-Provider/blob/main/Steps/8.PNG">
   <p>After The deploying completed go to the resources panel and refresh it..after That You will get some thing like above pic "<b>worker python3 main.py</b>" after that appeared click the pencil icon and switch it on..and confirm..<br><br>Now You Successfully Deployed The Anime Feeder 😍</p>
 </details>
+
+
+## 🌹 Host Locally
+```
+git clone https://github.com/HashCatz/Anime-Feeds-Provider
+cd Anime-Feeds-Provider
+pip3 install -r requirements.txt
+python3 main.py
+```
